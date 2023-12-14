@@ -13,4 +13,4 @@ Tecnologias utilizadas
 📌 CANVA
 
 Funcionamento do Protótipo
-![Funcionamento do Jogo]()
+![Funcionamento do Jogo](https://github.com/mariaeugenia907/projetofinal-replaygame/blob/main/design-sem-nome-3_5Q14lUZ4.mp4)
