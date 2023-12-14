@@ -15,7 +15,8 @@ Tecnologias utilizadas
 📌 CANVA
 
 Funcionamento do Protótipo
-![Funcionamento do Jogo](https://github.com/mariaeugenia907/projetofinal-replaygame/assets/77995348/6f05cfcc-2d37-42a5-a29b-e5012d790b72)
+
+https://github.com/mariaeugenia907/projetofinal-replaygame/assets/77995348/6f05cfcc-2d37-42a5-a29b-e5012d790b72
 
 
 
