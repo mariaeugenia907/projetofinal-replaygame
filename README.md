@@ -2,7 +2,7 @@
 
 Objetivo
 
-🎾 Apresentar um jogo chamado ReplayGame adaptado para melhoramento comportamental de portadores de transtorno autista como base no sistema de comunicação – PECS, condicionando o aprendizado por repetição e associação por meio de imagens e palavras.
+🎾 Apresentar um jogo chamado ReplayGame adaptado para melhoramento comportamental de portadores de transtorno autista com base no sistema de comunicação – PECS, condicionando o aprendizado por repetição e associação por meio de imagens e palavras.
 
 Tecnologias utilizadas
 
